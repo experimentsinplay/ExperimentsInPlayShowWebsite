@@ -2,8 +2,8 @@
 title: Noisy Silence
 date: 2018-01-01
 layout: default
-img: noisy-silence-5.jpg
-thumbnail: noisy-silence-thumb.jpg
+img: noisy-silence-5.JPG
+thumbnail: noisy-silence-thumb.JPG
 alt: image-alt
 small: false
 authors:

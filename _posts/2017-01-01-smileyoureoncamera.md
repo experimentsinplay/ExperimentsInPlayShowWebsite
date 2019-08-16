@@ -2,8 +2,8 @@
 title: Smile, You're On Camera
 date: 2017-01-01
 layout: default
-img: smile.jpg
-thumbnail: smile-thumb.jpg
+img: smile.JPG
+thumbnail: smile-thumb.JPG
 alt: Smile
 small: true
 authors:

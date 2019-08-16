@@ -3,7 +3,7 @@ title: Critter Cards
 date: 2018-01-01
 layout: default
 img: crittercards.PNG
-thumbnail: crittercards-thumb.png
+thumbnail: crittercards-thumb.PNG
 alt: Critter Cards
 small: false
 authors:

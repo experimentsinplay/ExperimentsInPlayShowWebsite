@@ -2,8 +2,8 @@
 title: Light Touches Skin
 date: 2018-01-01
 layout: default
-img: light-touches-skin.jpg
-thumbnail: light-touches-skin-thumb.jpg
+img: light-touches-skin.JPG
+thumbnail: light-touches-skin-thumb.JPG
 alt: Light Touches Skin
 small: false
 authors:

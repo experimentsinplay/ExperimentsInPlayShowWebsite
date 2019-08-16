@@ -2,7 +2,7 @@
 title: The Morland Family
 date: 2017-01-01
 layout: default
-img: the-morland-Family.jpg
+img: the-morland-family.jpg
 thumbnail: the-morland-family-thumb.png
 alt: The Morland Family
 small: true

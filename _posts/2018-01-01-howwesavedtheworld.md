@@ -2,7 +2,7 @@
 title: How We Saved The World
 date: 2018-01-01
 layout: default
-img: world.jpg
+img: world-thumb.jpg
 thumbnail: world-thumb.jpg
 alt: How We Saved The World
 small: false

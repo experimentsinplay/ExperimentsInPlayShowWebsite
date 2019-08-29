@@ -2,7 +2,7 @@
 title: Screaming For London
 date: 2017-01-01
 layout: default
-img: screaming-for-london.JPG
+img: screaming-for-london-thumb.JPG
 thumbnail: screaming-for-london-thumb.JPG
 alt: Screaming For London
 small: true

@@ -7,7 +7,7 @@ thumbnail: savedtheworld-thumb.jpg
 alt: How We Saved The World
 small: false
 authors:
-  - ['Jo Jonland', 'https://jonland.io']
+  - ['Jo Jonland', 'http://jonland.io']
 ---
 Get ready to travel to the future!
 
